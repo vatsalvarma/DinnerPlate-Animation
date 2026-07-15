@@ -11,7 +11,7 @@ const items = [
     rating: "4.3",
     chef: "Chef K Semy",
     desc: "Dosen pembimbingku kok asem tenan yo rek, masak ket wingi ra teko teko, su! su!!",
-    image: "/lamb.png",
+    image: "lamb.png",
     name: "lamb steak potato",
     likes: "36 likes",
     blobColor: "#E8D5D0", // pinkish
@@ -25,7 +25,7 @@ const items = [
     rating: "4.8",
     chef: "Chef Adin Salmon",
     desc: "Wortel mix pur, dengan modus 'neng mabar yuk' akhirnya adin sukses menjadi juragan.",
-    image: "/salmon.png",
+    image: "salmon.png",
     name: "salmon salad pak adin",
     likes: "50 likes",
     blobColor: "#E2DACF", // warm beige
@@ -39,7 +39,7 @@ const items = [
     rating: "4.6",
     chef: "Chef Adin Salmon",
     desc: "Dengan modus 'neng mabar yuk' akhirnya adin sukses menjadi juragan penerus mas pur",
-    image: "/martabak.png",
+    image: "martabak.png",
     name: "Martabak pak adin",
     likes: "36 likes",
     blobColor: "#D3DBCE", // light green
@@ -53,7 +53,7 @@ const items = [
     rating: "4.5",
     chef: "Chef Odin",
     desc: "Soto sapi segar dengan rempah pilihan khas nusantara dan kuah kaldu sapi asli.",
-    image: "/soto.png",
+    image: "soto.png",
     name: "Soto sapi pak odin",
     likes: "20 likes",
     blobColor: "#D0D6E8", // light blue
