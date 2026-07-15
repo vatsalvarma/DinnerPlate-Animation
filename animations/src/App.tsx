@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Play, Search, Menu, ChevronLeft, ChevronRight, ThumbsUp, ThumbsDown, Utensils, GlassWater, MessageSquare, User, Mic, Star } from 'lucide-react';
+import { Play, Search, Menu, ChevronLeft, ChevronRight, ThumbsUp, ThumbsDown, Utensils, Star } from 'lucide-react';
 
 const items = [
   {
